@@ -1,0 +1,11 @@
+employee_id,salary,department,job_title,years_of_experience
+1,60000,IT,Software Engineer,5
+2,75000,HR,HR Manager,8
+3,50000,IT,Junior Developer,2
+4,80000,Finance,Financial Analyst,7
+5,65000,IT,Systems Analyst,4
+6,70000,Finance,Financial Planner,6
+7,55000,HR,Recruiter,3
+8,90000,IT,Lead Developer,10
+9,52000,Marketing,Marketing Specialist,4
+10,62000,IT,Network Administrator,5
