@@ -1,8 +1,10 @@
 # Data_Analysis_Project1
 
-1. The data scraped from the website, is converted to the csv-like format. Then this data is filtered to get the required statistics for the last 20 days and the visualizations are plotted(using matplotlib).
+1. Corona Virus in different Countries
+   The data scraped from the website, is converted to the csv-like format. Then this data is filtered to get the required statistics for the last 20 days and the visualizations are plotted(using matplotlib).
 
-2. Load the Data: We use pandas to load and display the initial rows of the dataset.
+3. Salary Analysis
+Load the Data: We use pandas to load and display the initial rows of the dataset.
 
 Clean the Data: We check for and handle missing values. For simplicity, we drop rows where the salary is missing.
 
